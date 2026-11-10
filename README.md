@@ -1,5 +1,7 @@
 # AWS Microcredential Tutorials
 
+![AWS Microcredential Tutorials](docs/aws_all_10_complete_clean_heading.png)
+
 A growing collection of practical, hands-on tutorials covering **all 10
 AWS microcredentials**.
 
